@@ -78,3 +78,4 @@ void CentralBank::notify(const Currency& updatedCurrency) const
 		(*it)->update(updatedCurrency);
 	}
 }
+ 
