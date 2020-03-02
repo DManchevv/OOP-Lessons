@@ -10,8 +10,3 @@ public:
    char* getName();
    int getAge();
 }
-int main(){
-
-
-return 0;
-}
