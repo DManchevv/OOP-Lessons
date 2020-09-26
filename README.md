@@ -11,5 +11,5 @@ This repository is to store the basics of the OOP in C++ and to explain:
 
 ... and many many other things you will find in this repository :)
 
-* NOTE * 
+## NOTE: 
 I will update this file often so keep an eye on it :)
